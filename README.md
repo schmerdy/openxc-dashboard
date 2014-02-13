@@ -9,6 +9,6 @@ run *pip install -r pip-requirements.txt* to install all dependencies.
 
 ## run
 
-run *python app.py* to run the webserver, then point your browser to http://<host>:5000
+run *python app.py* to run the webserver, then point your browser to http://**host**:5000
 
 Current version is only tested with openxc-vehicle-simulator and needs to run on the same host as the simulator
